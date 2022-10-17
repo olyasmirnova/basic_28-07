@@ -1,0 +1,26 @@
+.nav{
+    width: 1000px;
+    margin: 0 auto;
+    &__list{
+
+    }
+    &__item{
+
+    }
+    &__link{
+        &:hover{
+
+        }
+    }
+}
+.services-box{
+    &__btn{
+        background: $color-primary;
+    }
+    &__holder{
+        font: 14px/20px $main-font;
+    }
+    &__text{
+        margin: 0;
+    }
+}
